@@ -11,6 +11,6 @@ def click1(x,y):
 for i in range(100):
 	try:
 		click1(120,160)
-		time.sleep(3254)
+		time.sleep(5640)
 	except Exception as e:
 		print(e)
