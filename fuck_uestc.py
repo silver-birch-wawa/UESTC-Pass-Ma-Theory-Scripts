@@ -9,7 +9,7 @@ def click1(x,y):
 	win32api.mouse_event(win32con.MOUSEEVENTF_LEFTDOWN,x,y,0,0) 
 	win32api.mouse_event(win32con.MOUSEEVENTF_LEFTUP,x,y,0,0)
 def make_sure_secure():
-	for i in range(8):
+	for i in range(15):
 		win32api.keybd_event(13,0,0,0)     # 按下回车取消alert弹窗
 		win32api.keybd_event(13,0,win32con.KEYEVENTF_KEYUP,0)  #释放按键
 		time.sleep(1)
