@@ -18,13 +18,6 @@ setInterval(function(){if(window.frames['w_main'].document.getElementById('w_lms
 	window.frames['w_main'].document.getElementById('w_code').contentWindow.treenode_onclick(count);}
 	},3000);
 ```
-
----
-
-> 啊啊啊~ 客官留步
-
-<img width="300px" src="./thx.png" align=center/>
-
 ---
 ### 作业提交1.2答案:
 
@@ -1007,3 +1000,7 @@ setInterval(function(){if(window.frames['w_main'].document.getElementById('w_lms
 ##### repo主♂，单身可撩。
 ##### PS: 目测快凑齐我院所有大佬的git账号了/斜眼
 ##### PPS: 有一块考浙大的研友么？
+
+> 啊啊啊~ 客官留步
+
+<img width="300px" src="./thx.png" align=center/>
