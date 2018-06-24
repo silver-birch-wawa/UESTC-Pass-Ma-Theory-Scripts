@@ -24,7 +24,7 @@ setInterval(function(){if(window.frames['w_main'].document.getElementById('w_lms
 > 啊啊啊~ 客官留步
 
 ![image.png](./thx.png)
-
+<img src='./thx.img' style="width:100px"/>
 ---
 ### 作业提交1.2答案:
 
