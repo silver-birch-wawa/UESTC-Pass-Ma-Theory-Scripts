@@ -999,7 +999,6 @@ setInterval(function(){if(window.frames['w_main'].document.getElementById('w_lms
 ### 最后插一句:
 ##### repo主♂，单身可撩。
 ##### PS: 感觉快凑齐我院所有大佬的git账号了/斜眼
-##### PPS: 有一块考浙大的研友么？
 
 ---
 
