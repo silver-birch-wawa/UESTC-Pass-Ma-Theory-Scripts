@@ -18,6 +18,9 @@ setInterval(function(){if(window.frames['w_main'].document.getElementById('w_lms
 	window.frames['w_main'].document.getElementById('w_code').contentWindow.treenode_onclick(count);}
 	},3000);
 ```
+
+题目答案来自鹳狸园后台: <img width="250px" src="./hhh.png" style='display:flex;margin-left:300px'/>
+
 ---
 ### 作业提交1.2答案:
 
@@ -999,9 +1002,3 @@ setInterval(function(){if(window.frames['w_main'].document.getElementById('w_lms
 ### 最后插一句:
 ##### repo主♂，单身可撩。
 ##### PS: 感觉快凑齐我院所有大佬的git账号了/斜眼
-
----
-
-> 客官给点小费吧:
-
-<img width="250px" src="./thx.png" style='display:flex;margin-left:300px'/>
